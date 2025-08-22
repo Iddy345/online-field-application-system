@@ -1,0 +1,29 @@
+{
+    "app_001": {
+        "student_id": "std_001",
+        "department": "IT Department",
+        "submitted_at": "2025-07-15 10:00:00",
+        "status": "pending",
+        "hr_comments": "",
+        "hod_action_date": null,
+        "hod_comments": ""
+    },
+    "app_002": {
+        "student_id": "std_002",
+        "department": "Finance Department",
+        "submitted_at": "2025-07-16 11:30:00",
+        "status": "pending",
+        "hr_comments": "",
+        "hod_action_date": null,
+        "hod_comments": ""
+    },
+    "app_003": {
+        "student_id": "std_003",
+        "department": "IT Department",
+        "submitted_at": "2025-07-17 09:00:00",
+        "status": "hod_approved",
+        "hr_comments": "",
+        "hod_action_date": "2025-07-18 14:00:00",
+        "hod_comments": "Actioned by John Doe (Approve)"
+    }
+}

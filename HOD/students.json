@@ -1,0 +1,30 @@
+[
+    {
+        "full_name": "Student A",
+        "email": "studentA@example.com",
+        "mobile_number": "1234567890",
+        "assigned_department": "IT Department",
+        "status": "accepted"
+    },
+    {
+        "full_name": "Student B",
+        "email": "studentB@example.com",
+        "mobile_number": "1234567891",
+        "assigned_department": "IT Department",
+        "status": "pending"
+    },
+    {
+        "full_name": "Student C",
+        "email": "studentC@example.com",
+        "mobile_number": "1234567892",
+        "assigned_department": "Finance Department",
+        "status": "accepted"
+    },
+    {
+        "full_name": "Student D",
+        "email": "studentD@example.com",
+        "mobile_number": "1234567893",
+        "assigned_department": "Finance Department",
+        "status": "pending"
+    }
+]

@@ -1,0 +1,165 @@
+{
+    "hemed@gmail.com": {
+        "password_hash": "$2y$10$9dTKuOgM383HNbJw6i0tTeSBeMxVV8n7eUTbhqmnJqQoYSmCs90K.",
+        "profile_completed": false,
+        "profile_data": []
+    },
+    "iddysaidi345@gmail.com": {
+        "password_hash": "$2y$10$jA.M\/mD24dXDXnMI1cK1MeXBnSffHJXejEUK\/Je7.3fFjMOrA.IKa",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "SAIDI KASONGO",
+            "age": "20",
+            "nationality": "TANZANIAN",
+            "gender": "Male",
+            "mobileNumber": "0745509522",
+            "address": "MAGOMENI,DAR ES SALAAM",
+            "university": "ARDHI UNIVERSITY",
+            "program": "COMPUTER SCIENCE",
+            "universityID": "12345678",
+            "email": "iddysaidi345@gmail.com"
+        }
+    },
+    "andrew@gmail.com": {
+        "password_hash": "$2y$10$hL60KwthWCZUS1ZdmTOm4uTQps83xqv8c86r2wx1\/7Heo3f2jezXG",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "andrew",
+            "age": "50",
+            "nationality": "kenyan",
+            "gender": "Male",
+            "mobileNumber": "0745509522",
+            "address": "moshi",
+            "university": "must",
+            "program": "COMPUTER SCIENCE",
+            "universityID": "234567",
+            "email": "andrew@gmail.com"
+        },
+        "application_status": "Submitted",
+        "field_letter_path": "uploads\/andrew@gmail.com_689da8a7c6eeb.pdf"
+    },
+    "iddysaidi1458@gmail.com": {
+        "password_hash": "$2y$10$H0AOmQWPRS4fcqEu81ywB.9wcb2IA1SsaW9of2tJJ52zapLGAcP9S",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "IDDY SAIDI IDDY",
+            "age": "30",
+            "nationality": "TANZANIAN",
+            "gender": "Male",
+            "mobileNumber": "0745509522",
+            "address": "Magomeni Mapipa",
+            "university": "must",
+            "program": "INFORMATION SYSTEM MANAGEMENT",
+            "universityID": "234567",
+            "email": "iddysaidi1458@gmail.com"
+        },
+        "application_status": "Submitted",
+        "field_letter_path": "uploads\/iddysaidi1458@gmail.com_689db0d041a7c.pdf"
+    },
+    "aweso@gmail.com": {
+        "password_hash": "$2y$10$fp3GT1oOHeJPprqkFDssOu2USAFK5MN3hTK0JuN7Rt4I2QL2mKf7.",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "aweso",
+            "age": "37",
+            "nationality": "TANZANIAN",
+            "gender": "Male",
+            "mobileNumber": "0745509522",
+            "address": "magomeni",
+            "university": "ARDHI UNIVERSITY",
+            "program": "INFORMATION SYSTEM MANAGEMENT",
+            "universityID": "234567",
+            "email": "aweso@gmail.com"
+        },
+        "application_status": "Submitted",
+        "field_letter_path": "uploads\/aweso@gmail.com_689db8d9744f7.pdf"
+    },
+    "daddy@gmail.com": {
+        "password_hash": "$2y$10$S\/HF10O.7bpEU\/5adf8\/juc.QLI1HvS31Xp.24ybWqSN\/JklAGiNu",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "aweso",
+            "age": "34",
+            "nationality": "kenyan",
+            "gender": "Male",
+            "mobileNumber": "0745509522",
+            "address": "dar",
+            "university": "NIT",
+            "program": "IT",
+            "universityID": "23456789",
+            "email": "daddy@gmail.com"
+        },
+        "application_status": "Submitted",
+        "field_letter_path": "uploads\/daddy@gmail.com_689ef271a3f98.pdf"
+    },
+    "abuu@gmail.com": {
+        "password_hash": "$2y$10$3oKT9EG.8TfGZ6zcWUk.ceEjT3IcxAH21WDj4AddAbMwgWQJgSNBm",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "ABUBAKAR",
+            "age": "22",
+            "nationality": "ARABIAN",
+            "gender": "Male",
+            "mobileNumber": "0745509522",
+            "address": "SAUDIA",
+            "university": "IFM",
+            "program": "ICT",
+            "universityID": "095467",
+            "email": "abuu@gmail.com"
+        },
+        "application_status": "Submitted",
+        "field_letter_path": "uploads\/abuu@gmail.com_68a1542c0a106.pdf"
+    },
+    "good@gmail.com": {
+        "password_hash": "$2y$10$DeAYELR9q8Y7\/1LbCwK82ebM\/\/9j05ZhykGBVKQDhiiKo4oIOjToC",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "GOODLUCK",
+            "age": "45",
+            "nationality": "TANZANIAN",
+            "gender": "Male",
+            "mobileNumber": "0745509522",
+            "address": "DAR ES SALAAM",
+            "university": "UNIVERSITY OF DAR ES SALAAM",
+            "program": "ICT",
+            "universityID": "2345678",
+            "email": "good@gmail.com"
+        },
+        "application_status": "Submitted",
+        "field_letter_path": "uploads\/good@gmail.com_68a45517b144d.pdf"
+    },
+    "lidya@gmail.com": {
+        "password_hash": "$2y$10$FXwImHmL.XbO9JWQiX\/iX.JkYql8frw8CmzxB5mgOPB1feQ0ppftC",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "lidya",
+            "age": "69",
+            "nationality": "somalian",
+            "gender": "Female",
+            "mobileNumber": "0745509522",
+            "address": "moshi",
+            "university": "IFM",
+            "program": "BAF",
+            "universityID": "45678",
+            "email": "lidya@gmail.com"
+        },
+        "application_status": "Submitted",
+        "field_letter_path": "uploads\/lidya@gmail.com_68a48b26c8606.pdf"
+    },
+    "andy@025gmail.com": {
+        "password_hash": "$2y$10$Op2JaVm13kJvZwDDAW.sWukfs\/RR7Fcu24G5\/UXO49JsFxJP1DNH2",
+        "profile_completed": false,
+        "profile_data": {
+            "fullName": "andy carrol",
+            "age": "34",
+            "nationality": "TANZANIAN",
+            "gender": "Male",
+            "mobileNumber": "0789567436",
+            "address": "mwanza",
+            "university": "IFM",
+            "program": "INFORMATION SYSTEM MANAGEMENT",
+            "universityID": "08675423",
+            "email": "andy@025gmail.com"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "quotas": {
+        "ICT": {
+            "total": 3,
+            "assigned": 1
+        },
+        "Finance": {
+            "total": 2,
+            "assigned": 0
+        },
+        "Engineering": {
+            "total": 2,
+            "assigned": 0
+        }
+    },
+    "students": {
+        "john.doe@example.com": {
+            "password_hash": "$2y$10$3K285T1sL74l.y\/jFfV.b.d.y42.L2f.1g.d.y42.L2f.1g.d.y42.L2f.1g.d.y42.L2f.1g.d",
+            "profile_data": {
+                "fullName": "John Doe",
+                "age": "21",
+                "nationality": "Tanzanian",
+                "gender": "Male",
+                "mobileNumber": "0712345678",
+                "address": "Dar es Salaam",
+                "university": "University of Dar es Salaam",
+                "program": "Engineering",
+                "universityID": "UDSM\/001\/2023",
+                "email": "john.doe@example.com"
+            },
+            "application_status": "Accepted",
+            "field_letter_path": ""
+        },
+        "jane.smith@example.com": {
+            "password_hash": "$2y$10$3K285T1sL74l.y\/jFfV.b.d.y42.L2f.1g.d.y42.L2f.1g.d.y42.L2f.1g.d.y42.L2f.1g.d",
+            "profile_data": {
+                "fullName": "Jane Smith",
+                "age": "22",
+                "nationality": "Tanzanian",
+                "gender": "Female",
+                "mobileNumber": "0787654321",
+                "address": "Dodoma",
+                "university": "University of Dodoma",
+                "program": "ICT",
+                "universityID": "UDOM\/002\/2023",
+                "email": "jane.smith@example.com"
+            },
+            "application_status": "Rejected",
+            "field_letter_path": ""
+        }
+    }
+}

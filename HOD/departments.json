@@ -1,0 +1,10 @@
+{
+    "IT Department": {
+        "quota": 6,
+        "assigned_students": []
+    },
+    "Finance Department": {
+        "quota": 5,
+        "assigned_students": []
+    }
+}

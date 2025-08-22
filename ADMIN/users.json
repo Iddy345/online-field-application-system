@@ -1,0 +1,20 @@
+{
+    "admin@example.com": {
+        "password": "password",
+        "role": "admin"
+    },
+    "ramadhan123@gmail.com": {
+        "full_name": "rama",
+        "mobile_number": "0745509522",
+        "password": "",
+        "role": "hr",
+        "department": ""
+    },
+    "abel@gmail.com": {
+        "full_name": "Abel",
+        "mobile_number": "063022669",
+        "password": "16027",
+        "role": "hod",
+        "department": "finance"
+    }
+}

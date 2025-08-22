@@ -1,0 +1,26 @@
+{
+    "hod_001": {
+        "user_id": "hod_001",
+        "full_name": "IDDY SAIDI",
+        "email": "iddysaidi@example.com",
+        "password": "12345",
+        "role": "hod",
+        "department": "IT Department"
+    },
+    "hod_002": {
+        "user_id": "hod_002",
+        "full_name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "password": "123456",
+        "role": "hod",
+        "department": "Finance Department"
+    },
+    "hod_003": {
+        "user_id": "hod_003",
+        "full_name": "Your Name",
+        "email": "your.email@example.com",
+        "password": "yourpassword",
+        "role": "hod",
+        "department": "Your Department"
+    }
+}
